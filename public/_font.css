@@ -1,0 +1,6 @@
+/* Regular */
+@font-face {
+  font-family: 'Spoqa Han Sans Regular';
+  font-style: normal;
+  src: local('Spoqa Han Sans Regular'), url('./Spoqa Han Sans Regular.woff') format('woff');
+}
